@@ -1,0 +1,13 @@
+C:\Users\Cliente\Desktop\Jogo RPG em cSHARP\bin\Debug\netcoreapp3.1\Jogo RPG em cSHARP.exe
+C:\Users\Cliente\Desktop\Jogo RPG em cSHARP\bin\Debug\netcoreapp3.1\Jogo RPG em cSHARP.deps.json
+C:\Users\Cliente\Desktop\Jogo RPG em cSHARP\bin\Debug\netcoreapp3.1\Jogo RPG em cSHARP.runtimeconfig.json
+C:\Users\Cliente\Desktop\Jogo RPG em cSHARP\bin\Debug\netcoreapp3.1\Jogo RPG em cSHARP.runtimeconfig.dev.json
+C:\Users\Cliente\Desktop\Jogo RPG em cSHARP\bin\Debug\netcoreapp3.1\Jogo RPG em cSHARP.dll
+C:\Users\Cliente\Desktop\Jogo RPG em cSHARP\bin\Debug\netcoreapp3.1\Jogo RPG em cSHARP.pdb
+C:\Users\Cliente\Desktop\Jogo RPG em cSHARP\obj\Debug\netcoreapp3.1\Jogo RPG em cSHARP.csprojAssemblyReference.cache
+C:\Users\Cliente\Desktop\Jogo RPG em cSHARP\obj\Debug\netcoreapp3.1\Jogo RPG em cSHARP.AssemblyInfoInputs.cache
+C:\Users\Cliente\Desktop\Jogo RPG em cSHARP\obj\Debug\netcoreapp3.1\Jogo RPG em cSHARP.AssemblyInfo.cs
+C:\Users\Cliente\Desktop\Jogo RPG em cSHARP\obj\Debug\netcoreapp3.1\Jogo RPG em cSHARP.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Desktop\Jogo RPG em cSHARP\obj\Debug\netcoreapp3.1\Jogo RPG em cSHARP.dll
+C:\Users\Cliente\Desktop\Jogo RPG em cSHARP\obj\Debug\netcoreapp3.1\Jogo RPG em cSHARP.pdb
+C:\Users\Cliente\Desktop\Jogo RPG em cSHARP\obj\Debug\netcoreapp3.1\Jogo RPG em cSHARP.genruntimeconfig.cache
